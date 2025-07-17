@@ -12,3 +12,9 @@ Este projeto é um programa simples feito em linguagem C.
 ## 🖥️ Resultado
 
 Abaixo está um exemplo de execução do programa:
+
+![Resultado do programa](imagens/imagem1.png)
+
+![Resultado do programa](imagens/imagem2.png)
+
+![Resultado do programa](imagens/imagem3.png)
